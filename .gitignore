@@ -7,3 +7,6 @@ cat_train_images/
 
 # model files
 *.h5
+
+# log files
+*.log
