@@ -1,6 +1,7 @@
 # cat images
 cat_test_images/
 cat_train_images/
+cat_train_images_2/
 
 # pickle files
 *.pickle
