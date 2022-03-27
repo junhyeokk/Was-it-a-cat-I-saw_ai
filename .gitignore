@@ -11,3 +11,5 @@ cat_train_images_2/
 
 # log files
 *.log
+
+**/.ipynb_checkpoints
